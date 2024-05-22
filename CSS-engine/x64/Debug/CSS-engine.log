@@ -1,0 +1,6 @@
+﻿  CSS-engine.cpp
+C:\coding\studia\Algorytmy i Struktury Danych\Projekt1\CSS-engine\CSS-engine\CSS-engine.cpp(187,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\coding\studia\Algorytmy i Struktury Danych\Projekt1\CSS-engine\CSS-engine\CSS-engine.cpp(296,20): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Section.cpp
+  Generating Code...
+  CSS-engine.vcxproj -> C:\coding\studia\Algorytmy i Struktury Danych\Projekt1\CSS-engine\x64\Debug\CSS-engine.exe
